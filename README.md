@@ -1,4 +1,4 @@
-# Umfassender Leitfaden zur Verbesserung der Webzugänglichkeit mit CSS
+# Leitfaden zur Verbesserung der Webzugänglichkeit mit CSS
 
 Based on: [How to Use CSS to Improve Web Accessibility (freeCodeCamp)](https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/)
 
