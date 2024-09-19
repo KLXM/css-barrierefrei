@@ -1,5 +1,7 @@
 # Umfassender Leitfaden zur Verbesserung der Webzugänglichkeit mit CSS
 
+Based on: [How to Use CSS to Improve Web Accessibility (freeCodeCamp)](https://www.freecodecamp.org/news/how-to-use-css-to-improve-web-accessibility/)
+
 CSS spielt eine entscheidende Rolle bei der Verbesserung der Webzugänglichkeit. Dieser Leitfaden bietet einen umfassenden Überblick über verschiedene CSS-Techniken und Best Practices zur Steigerung der Barrierefreiheit.
 
 ## Inhaltsverzeichnis
